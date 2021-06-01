@@ -2,7 +2,9 @@
 node_modules
 /dist/*
 
-!/dist/css/
+!/dist/dev/
+!/dist/stage/
+!/dist/prod/
 
 
 # local env files
